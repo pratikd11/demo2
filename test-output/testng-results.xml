@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-08-06T22:55:39 IST" name="Suite" finished-at="2022-08-06T22:57:12 IST" duration-ms="93714">
+    <groups>
+    </groups>
+    <test started-at="2022-08-06T22:55:39 IST" name="Test" finished-at="2022-08-06T22:57:12 IST" duration-ms="93714">
+      <class name="com.qa.testLayer.TestCases">
+        <test-method is-config="true" signature="start()[pri:0, instance:com.qa.testLayer.TestCases@72057ecf]" started-at="2022-08-06T22:55:39 IST" name="start" finished-at="2022-08-06T22:55:39 IST" duration-ms="11" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- start -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.qa.testLayer.TestCases@72057ecf]" started-at="2022-08-06T22:55:39 IST" name="setup" finished-at="2022-08-06T22:56:50 IST" duration-ms="71675" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyLocation()[pri:0, instance:com.qa.testLayer.TestCases@72057ecf]" started-at="2022-08-06T22:56:50 IST" name="verifyLocation" finished-at="2022-08-06T22:57:10 IST" duration-ms="19766" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLocation -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.qa.testLayer.TestCases@72057ecf]" started-at="2022-08-06T22:57:11 IST" name="tearDown" finished-at="2022-08-06T22:57:12 IST" duration-ms="1355" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="stop()[pri:0, instance:com.qa.testLayer.TestCases@72057ecf]" started-at="2022-08-06T22:57:12 IST" name="stop" finished-at="2022-08-06T22:57:12 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- stop -->
+      </class> <!-- com.qa.testLayer.TestCases -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
